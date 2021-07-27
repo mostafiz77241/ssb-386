@@ -1,0 +1,92 @@
+
+
+.header_secstion{
+    background-color: darkslategray;
+    width: 900px;
+    height: 120px;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+.nav_manu{
+    background-color: purple;
+    width: 900px;
+    height: 400px;
+    text-align: center;
+    margin: 10;
+    margin-top: 10px;
+}
+section{
+    overflow: hidden;
+    text-align: center;
+
+}
+.service_one{
+    width: 180px;
+    height: 220px;
+    background-color: saddlebrown;
+    float: left;
+    margin-left:50px ;
+    margin-top: 10px;
+    
+  
+}
+.service_tow{
+    width: 180px;
+    height: 220px;
+    background-color: seagreen;
+    float: left;
+    margin-left:50px ;
+    margin-top: 10px;
+
+
+}
+.service_three{
+    width: 180px;
+    height: 220px;
+    background-color: rosybrown;
+    float: left;
+    margin-left:50px;
+    margin-top: 10px;
+}
+.content{
+    overflow: hidden;
+
+}
+.one{
+    width: 180px;
+    height: 220px;
+    background-color: darkgoldenrod;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+.tow{
+    width: 180px;
+    height: 220px;
+    background-color: darkred;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+.three{
+    width: 180px;
+    height: 220px;
+    background-color: darkslateblue;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+.footer_secstion{
+    background-color: darkorchid;
+    width: 900px;
+    height: 120px;
+    margin: 10;
+    margin-top: 10px;
+    text-align: center;
+
+}
